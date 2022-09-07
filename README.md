@@ -1,1 +1,1 @@
-This repository provides solution to my ALX shell task
+ALX shell task solutions
