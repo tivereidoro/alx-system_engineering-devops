@@ -1,3 +1,3 @@
 ALX shell task solutions
 
-$bash $scripting $linux
+$bash $scripting $linux $devOps
