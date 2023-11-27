@@ -1,12 +1,17 @@
-<div style="text-align: center;">
+<div align="center">
+
 # 0x0A. CONFIGURATION MANAGEMENT - ALX SE
 #
 </div>
+
 <div align="center">
+
 `puppet-lint compliant`
 
 `DevOps || SysAdmin || Scripting || CI/CD`
 </div>
+
+#
 
 ### Puppet and config management. --here we go;
 
