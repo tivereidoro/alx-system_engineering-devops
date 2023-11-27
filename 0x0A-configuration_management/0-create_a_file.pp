@@ -1,3 +1,5 @@
+# This Puppet manifest creates a file in /tmp.
+
 file { 'school':
   path    => '/tmp/school',
   owner   => 'www-data',
