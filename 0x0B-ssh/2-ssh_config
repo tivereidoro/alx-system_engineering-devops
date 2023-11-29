@@ -1,2 +1,12 @@
 #!/usr/bin/env bash
 # SSH client configuration
+
+Include /etc/ssh/ssh_config.d/*.conf
+
+Host 3.85.41.133
+PasswordAuthentication no
+IdentityFile ~/.ssh/school
+
+#   ForwardAgent no
+#   ForwardX11 no
+#   ForwardX11Trusted yes
