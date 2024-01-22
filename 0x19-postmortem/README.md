@@ -1,3 +1,8 @@
+<div align='center'>
+
+![](https://miro.medium.com/v2/da:true/resize:fit:300/1*PtBtw-ygDjcuzzOeIcU60w.gif)
+</div>
+
 # WORDPRESS WEBSITE APACHE 500 ERROR POSTMORTEM
 
 ## Issue Summary
