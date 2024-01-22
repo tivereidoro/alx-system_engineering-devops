@@ -8,12 +8,12 @@
 ## Issue Summary
 
 **Duration:**  
-On July 1, 2023, at 08:00 WAT, requests to the WordPress website resulted in 500 error responses, lasting for about 1 hour. At its peak, the issue affected 100% of website traffic. The root cause was a misconfiguration in the Apache server settings, leading to conflicts in handling PHP requests within the WordPress environment.
+On July 1, 2023, at 08:05 WAT, requests to the WordPress website resulted in 500 error responses, lasting for about 1 hour. At its peak, the issue affected 100% of website traffic. The root cause was a misconfiguration in the Apache server settings, leading to conflicts in handling PHP requests within the WordPress environment.
 
 ## Timeline
 
 - **Detection Time:**  
-  - The issue was first detected on July 1, 2023, 08:15 UTC, when an elevated number of 500 errors appeared in server logs and user reports.
+  - The issue was first detected on July 1, 2023, 08:05 WAT, when an elevated number of 500 errors appeared in server logs and user reports.
 
 - **Detection Method:**  
   - Monitoring alerts were triggered by a surge in HTTP 500 responses, prompting an investigation into the Apache server logs.
